@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LanguagePod101 (Innovative Language) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://languagepod101.com/
+LanguagePod101 (Innovative Language) offers free language learning podcasts and resources across multiple languages, including Arabic, French, German, Japanese, Korean, Italian, Russian, and Spanish. The platform provides audio lessons, transcripts, and learning tools to help users improve listening and speaking skills through engaging content.
+
+**Areas:** Company · Language Learning · Podcasts · Education · Multilingual
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://languagepod101.com/)
+- [Support](https://support.innovativelanguage.com/hc/en-us/requests/new)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/languagepod101/](https://apis.io/providers/languagepod101/).
